@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import Web3 from "web3";
 import AceHacks from "../../artifacts/contracts/registration.sol/AceHacks.json";
-
+import React from "react";
 const TransferOwnership = () => {
   const [transactions, setTransactions] = useState([]);
 
