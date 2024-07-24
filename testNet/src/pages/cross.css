@@ -1,0 +1,38 @@
+.css-1x3ru1n-bg{
+    background-color: rgb(240, 240, 240);
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px 0;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color: black;
+}
+.css-1vqealw-label{
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 10px;
+    color: black;
+}
+.css-1l9vyml-connectWallet{
+    background-color: #f6c90e;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    margin-top: 10px;
+}
+.css-phjr2a-chainTile{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px 0;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color: black;
+}
+.css-od8c8q-headerTitle{
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: black;
+}
